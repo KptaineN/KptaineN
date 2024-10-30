@@ -7,9 +7,9 @@
 
 Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 
-<img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" align="left" width="150" style="margin-right: 10px;"/>
+<img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" align="right" width="150" style="margin-right: 10px;"/>
 
-<br clear="left"/>
+<br clear="right"/>
 
 <a href="https://profile.intra.42.fr/" target="_blank">
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>

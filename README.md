@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-<img src="https://i.giphy.com/lF8gToHOsG6xY454az.webp="border-radius: 1px;"/>
+<img src="https://i.giphy.com/lF8gToHOsG6xY454az.webp="width="50" height="50" align="left" width="150" style="margin-right: 10px;"/>
 </p>
 
 

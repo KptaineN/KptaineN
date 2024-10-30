@@ -1,6 +1,9 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════                                                                       --------------------------------------------------------------------------W e L c O m E - On - M y - P r O f I l E-------------------------------------------------------------------
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlODJpNm5tYm5ldjl1MGtwMWkzMnQ4cm1lYmE4aTltYWg2MTYyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qKx0QcrWPjROiYjwXu/giphy.webp" width="150" alt="GIF de bienvenue"/>
+</p>
 
 
 ---
@@ -51,10 +54,7 @@
 
 
 
-<!-- GIF de fin en rouge -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 15px;"/>
-</p>
+
 
 -----------------------------------------------------
 --------------------------------------

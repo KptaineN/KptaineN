@@ -25,6 +25,7 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 <a href="https://discordapp.com/users/4ptaine" target="_blank">
 <img src="https://i.giphy.com/LuLRRjF3rSrs3wvX0F.webp" width="100" />
+</a>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

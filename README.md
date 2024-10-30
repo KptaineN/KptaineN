@@ -66,13 +66,3 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
 
-
-
-
-uses: Platane/snk/svg-only@v3
-
-
-
-
-
-

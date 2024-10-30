@@ -1,9 +1,9 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════                                                                       --------------------------------------------------------------------------W e L c O m E - On - M y - P r O f I l E-------------------------------------------------------------------
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp"/>
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp" width="250" alt="GIF de bienvenue"/>
+</p>
 
 
 ## Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.

@@ -1,7 +1,7 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════                                                                       --------------------------------------------------------------------------W e L c O m E - On - M y - P r O f I l E-------------------------------------------------------------------
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp" width="150" style="border: 2px solid red; border-radius: 10px;"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp" width="150" style="border: 2px solid red; border-radius: 15px;"/>
 
 
 

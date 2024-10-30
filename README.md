@@ -2,14 +2,6 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
 
-</div>
-
-<!-- GIF de fin en rouge -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 15px;"/>
-</p>
-
-
 
 ---
 

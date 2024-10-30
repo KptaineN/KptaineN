@@ -4,16 +4,8 @@
 
 
 
-------------------------------------------------
-
-
-
-
-
-
-
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" width="150" alt="GIF de bienvenue"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" width="150"\>
 </p>
 
 
@@ -42,8 +34,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/4ptaine) 💬
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiefer.d.noe@gmail.com) 📬
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/app_redirect?channel=C12345678)✉ 𝒏𝒌𝒊𝒆𝒇𝒆𝒓
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Popcornne)
 
-- 
 ---------------------------------------------------------------------------------------------------------------
 
 
@@ -68,7 +60,7 @@
 <br clear="left"/>
 
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Popcornne)
+
 
 
 

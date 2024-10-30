@@ -3,24 +3,7 @@
 - 🌱 I’m currently learning C code at 42 Luxembourg 
 - ⚡ Fun fact: i never code in my life, i really start to 0 to go to the INT_MAX
 
-<!---
-KptaineN/KptaineN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="left" width="150" style="margin-right: 10px;"/>
 
-<!-- GIF de fin en rouge -->
-<img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" align="left" width="150" style="margin-right: 10px;"/>
+Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg. Mon objectif est de maîtriser le langage C et d'explorer de nombre
 
-
----
-<img src="https://i.giphy.com/lF8gToHOsG6xY454az.webp="width="50" height="50" align="left" width="150" style="margin-right: 10px;"/>
-</p>
-
-
-<div align="center">
-
-## 
-<img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" align="left" width="150" style="margin-right: 10px;"/>
-
-</div>

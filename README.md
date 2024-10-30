@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KptaineN alias Noé Kiefer
 - 👀 I’m interested in many thinks 
-- 🌱 I’m currently learning C code at 42 Luxembourg 
+- 🌱 I’m currently learning C code at 𝟜𝟚 Luxembourg 
 - ⚡ Fun fact: i never code in my life, i really start to 0 to go to the INT_MAX
 
 
@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
 
- ## 🚀  𝟜𝟚  🚀 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+ ## 🚀 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) 🚀 
 <a href="https://profile.intra.42.fr/nkiefer" target="_blank">  
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>
 

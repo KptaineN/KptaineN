@@ -2,7 +2,7 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp" width="250"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRiajVtNXM3aHVzMXUxYTViMGU0dW92dW5qMnVlbTlzZXViM3l5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.webp" width="20"/>
 
 
 

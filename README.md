@@ -12,20 +12,8 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <a href="https://discordapp.com/users/4ptaine" target="_blank">
-  <img src="https://i.giphy.com/LuLRRjF3rSrs3wvX0F.webp" width="100" />
-</a>
+ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -52,3 +40,82 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 <a href="https://profile.intra.42.fr/" target="_blank">
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>
 </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=noe_kif&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
+
+
+
+
+

@@ -30,7 +30,7 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 ---------------------------------------------------------------------------------------------------------------
 ## 🗨️ _Contactez-moi_
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - **Discord** : [Mon Discord](https://discordapp.com/users/4ptaine) 💬
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  <a [Mon Discord](https://discordapp.com/users/4ptaine) >💬
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - **Email** : [kiefer.d.noe@gmail.com](mailto:kiefer.d.noe@gmail.com) 📬
 - **Slack** : [nkiefer](https://slack.com/app_redirect?channel=C12345678)✉
 ---------------------------------------------------------------------------------------------------------------

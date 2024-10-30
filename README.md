@@ -8,7 +8,7 @@
 Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 
 <a href="https://discordapp.com/users/4ptaine" target="_blank">
-<img src="https://i.giphy.com/LuLRRjF3rSrs3wvX0F.webp" align="right" width="150" style="margin-left: 10px;"/>
+<img src="https://i.giphy.com/LuLRRjF3rSrs3wvX0F.webp" align="right" width="150" />
 
 <br clear="right"/>
 

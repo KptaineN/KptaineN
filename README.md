@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <!-- GIF de fin en rouge -->
-<p align="center">
-  <img src="https://i.giphy.com/Y07JHGMqEAOXcoyIaR.webp" width="100%" style=" 5px;"/>
-</p>
+
 
 ---
 <img src="https://i.giphy.com/lF8gToHOsG6xY454az.webp="width="50" height="50" align="left" width="150" style="margin-right: 10px;"/>

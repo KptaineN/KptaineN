@@ -5,5 +5,13 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="left" width="150" style="margin-right: 10px;"/>
 
-Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg. Mon objectif est de maîtriser le langage C et d'explorer de nombre
+Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="left" width="150" style="margin-right: 10px;"/>
+
+ Mon objectif est de maîtriser le langage C et d'explorer de nombreuses technologies fascinantes. Je pars de zéro pour atteindre le maximum, et j'adore apprendre chaque jour un peu plus.
+
+<br clear="left"/>
+
+<a href="https://profile.intra.42.fr" target="_blank">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFnbHo1dXFzbTBrdHdjZjhhOG1uYmJkeTNkNW44aTFwcjBsZHp5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.webp" width="

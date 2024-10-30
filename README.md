@@ -13,10 +13,6 @@
 - ⚡ Fun fact: i never code in my life, i really start to 0 to go to the INT_MAX
 ------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" width="150" />
-</p>
-
 
 <br clear="left"/>
 
@@ -60,7 +56,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" width="150" />
+</p>
 
 
 

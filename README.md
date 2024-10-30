@@ -12,16 +12,6 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 <br clear="left"/>
 
 
-
-<a href="https://discordapp.com/users/4ptaine" target="_blank">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHEyajhndjZ0aWxrMm50ZnNvOHlyYjB5djllY3Zvc3RrYzU4NnM3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/felVe9mAFvTJzoGUX8/giphy.webp/" target="_blank">
-<br clear="right"/>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
  ## 🚀 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) 🚀 
 <a href="https://profile.intra.42.fr/nkiefer" target="_blank">  
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>

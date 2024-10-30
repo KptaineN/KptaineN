@@ -5,19 +5,10 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="right" width="150" style="margin-left: 10px;"/>
 
+<br clear="left"/>
+
 Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-$
-$
-$
-$
-$
-$
-$
-$
-$
-$
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br clear="left"/>
 

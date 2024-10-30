@@ -2,7 +2,7 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlODJpNm5tYm5ldjl1MGtwMWkzMnQ4cm1lYmE4aTltYWg2MTYyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qKx0QcrWPjROiYjwXu/giphy.webp" width="250" alt="GIF de bienvenue"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlODJpNm5tYm5ldjl1MGtwMWkzMnQ4cm1lYmE4aTltYWg2MTYyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qKx0QcrWPjROiYjwXu/giphy.webp" width="500" alt="GIF de bienvenue"/>
 </p>
 
 

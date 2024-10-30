@@ -31,8 +31,8 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 ## 🗨️ _Contactez-moi_
 
 - **Discord** : [Mon Discord](https://discordapp.com/users/4ptaine) 💬
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com) 📬
-- **SLACK** : [nkiefer](https://slack.com/app_redirect?channel=C12345678)✉
+- **Email** : [kiefer.d.noe@gmail.com](mailto:kiefer.d.noe@gmail.com) 📬
+- **Slack** : [nkiefer](https://slack.com/app_redirect?channel=C12345678)✉
 ---------------------------------------------------------------------------------------------------------------
 
 

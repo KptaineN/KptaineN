@@ -44,7 +44,7 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
  ## PROFILE INTRA 42
-<a href="https://profile.intra.42.fr/nkiefer" target="_blank">
+<a href="https://profile.intra.42.fr/nkiefer" target="_blank">  
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>
 
 

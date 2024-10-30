@@ -103,13 +103,17 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
 
+<div style="text-align: center;">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=noe_kif&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify GitHub Profile">
+    </a>
+</div>
 
 
 
 
 
 
-<[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=noe_kif&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) align="right" \>
 
 
 

@@ -1,18 +1,13 @@
-- 👋 Hi, I’m @KptaineN alias Noé Kiefer
-- 👀 I’m interested in many things 
-- 🌱 I’m currently learning C code at 𝟜𝟚 Luxembourg 
-- ⚡ Fun fact: i never code in my life, i really start to 0 to go to the INT_MAX
-
-
-
 
 ## Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 - 👋 Hi, I’m @KptaineN alias Noé Kiefer
 ------------------------------------------------------------------------------------------------------------------------------------
-- 👀 I’m interested in many things 
-- 🌱 I’m currently learning C code at 𝟜𝟚 Luxembourg 
+- 👀 I’m interested in many things
+------------------------------------------------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning C code at 𝟜𝟚 Luxembourg
+------------------------------------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact: i never code in my life, i really start to 0 to go to the INT_MAX
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 <br clear="left"/>
 

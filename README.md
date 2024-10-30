@@ -6,8 +6,10 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 15px;"/>
 </p>
+
+
 
 ---
 
@@ -62,7 +64,7 @@
 --------------------------------------
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="right" width="100" style="margin-left: 10px;"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnczVyeXd1NWRpa2wxbjlzMWluMTFmbDhicWI4dnhjbXlpdXhkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lF8gToHOsG6xY454az/giphy.webp" align="right" width="100" style="margin-left: 25px;"/>
 
 <br clear="left"/>
 

@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <!-- GIF de fin en rouge -->
+<img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" align="left" width="150" style="margin-right: 10px;"/>
 
 
 ---

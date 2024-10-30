@@ -2,6 +2,19 @@
 ═════════════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════════════
 
 
+</div>
+
+<!-- GIF de fin en rouge -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+</p>
+
+---
+
+<div align="center">
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudiant en programmation à 42 Luxembourg.
 - 👋 Hi, I’m @KptaineN alias Noé Kiefer
@@ -55,10 +68,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyYXA5djZwNjgxbnh4eXlocTY1ZHZubDN1eDhlZ280ZHBqODRveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWqZ06djePTHJ1eQV9/giphy.gif" width="150" />
-</p>
 
 
 

@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.giphy.com/Y07JHGMqEAOXcoyIaR.webp" width="100%" style="border-radius: 5px;"/>
+  <img src="https://i.giphy.com/Y07JHGMqEAOXcoyIaR.webp" width="100%" style=" 5px;"/>
 </p>
 
 ---

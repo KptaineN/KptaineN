@@ -31,13 +31,26 @@ Bienvenue sur mon profil GitHub ! Je m’appelle Noé Kiefer, et je suis étudia
 
 
 
-
-
-
-
+ ## PROFILE INTRA 
 <a href="https://profile.intra.42.fr/" target="_blank">
   <img src="https://i.giphy.com/3oKIPtjElfqwMOTbH2.webp" width="100"/>
-</a>
+
+
+-- 
+## 🗨️ Contactez-moi
+
+- **Discord** : [Mon Discord](https://discordapp.com/users/4ptaine) 💬
+- **Email** : [ton.email@example.com](mailto:ton.email@example.com) 📬
+- **SLACK** : [nkiefer](https://slack.com/app_redirect?channel=C12345678)✉
+--
+
+
+
+
+
+
+
+
 
 
 

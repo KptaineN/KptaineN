@@ -9,12 +9,22 @@ _________________________________________                            [![Typing S
 </p>
 
 
----
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KptaineN&theme=moonlight) 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+![Carte de profil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KptaineN&theme=moonlight)
+
+   </td>
+    <td valign="top" width="50%">
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KptaineN&theme=moonlight)
+
+  </td>
+  </tr>
+</table>
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KptaineN&theme=moonlight) 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## 𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖚𝖊 𝖘𝖚𝖗 𝖒𝖔𝖓 𝖕𝖗𝖔𝖋𝖎𝖑 𝕲𝖎𝖙𝕳𝖚𝖇 ! 𝕵𝖊 𝖒’𝖆𝖕𝖕𝖊𝖑𝖑𝖊 𝕹𝖔𝖊́ 𝕶𝖎𝖊𝖋𝖊𝖗, 𝖊𝖙 𝖏𝖊 𝖘𝖚𝖎𝖘 𝖊́𝖙𝖚𝖉𝖎𝖆𝖓𝖙 𝖊𝖓 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖆𝖙𝖎𝖔𝖓 𝖆̀ 𝟜𝟚 𝕷𝖚𝖝𝖊𝖒𝖇𝖔𝖚𝖗𝖌.
